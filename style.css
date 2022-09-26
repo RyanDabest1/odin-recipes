@@ -1,7 +1,22 @@
 *{
     background: rgb(244, 126, 124);
+    box-sizing: border-box;
 }
 button:hover{
     color: cyan;
-
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    border: 10px solid rgb(247, 203, 70);
+    margin: 20px;
+}
+h1:hover{
+    text-align: center;
+    padding: 10px;
+    border: 5px solid rgb(171, 242, 116);
+    margin: 20px;
+}
+ul{
+    align-items: center;
 }
